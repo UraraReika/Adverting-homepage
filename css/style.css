@@ -93,6 +93,7 @@ h4{
 /* --------------------HEADER---------------------------- */
 .navbar{
 	background-color: #000;
+	border-radius: 0;
 	line-height: 80px;
 	margin: 0;
 }
